@@ -1,0 +1,54 @@
+.mCard {
+  background-color: #4e66f3;
+  height: 300px;
+  width: 94%;
+  box-shadow: 4px 4px 4px 4px rgba(128, 128, 128, 0.205);
+  padding: 20px;
+  margin-left: 40px;
+  margin-top: 100px;
+  position: relative;
+}
+
+.title {
+  font-size: 50px;
+  margin-left: 40px;
+  font-family: Franklin Gothic Medium;
+  background-color: #4e66f3;
+}
+.des {
+  margin-top: 8px;
+  display: flex;
+  margin-left: 100px;
+  font-size: 15px;
+  height: 110px;
+  width: 700px;
+  background-color: #4e66f3;
+}
+.rating {
+  font-size: 30px;
+  margin-top: 10px;
+  margin-left: 1000px;
+  position: absolute;
+}
+img {
+  height: 260px;
+  width: 170px;
+}
+* {
+  background-color: #313030;
+}
+.all {
+  background-color: #4e66f3;
+  width: 1250px;
+}
+.stars {
+  display: flex;
+  font-size: 30px;
+  height: 20px;
+  width: 200px;
+  margin-left: 970px;
+  position: absolute;
+}
+.navbar {
+  position: relative;
+}

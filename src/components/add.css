@@ -1,0 +1,31 @@
+.inputsec {
+  margin-top: 40px;
+  margin-left: 600px;
+  padding: 2px;
+  border: 2px solid #4e66f3;
+  width: 400px;
+  height: 400px;
+}
+form {
+  padding-top: 7px;
+}
+input {
+  padding-top: 8px;
+  border: none;
+  outline: none;
+  text-align: center;
+}
+input.placeholder {
+  text-align: center;
+}
+button {
+  color: black;
+  border: 2px solid #4e66f3;
+  background-color: transparent;
+  width: 200px;
+  height: 40px;
+  margin-top: 40px;
+}
+.t {
+  margin-left: 97px;
+}
