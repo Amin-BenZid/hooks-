@@ -1,38 +1,3 @@
-/* .App {
-  width: max-content;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 150px;
-}
-* {
-  background-color: greenyellow;
-}
-
-.form {
-  background-color: rgb(3, 73, 3);
-  height: 400px;
-  width: 370px;
-  position: relative;
-  box-shadow: 4px 4px 4px 1px rgba(3, 73, 3, 0.418);
-}
-.inputs {
-  background-color: rgb(3, 73, 3);
-
-  position: absolute;
-  margin-top: 80px;
-  margin-left: 58px;
-  border-width: 0px;
-}
-input {
-  border: none;
-  background-color: #ffffff;
-  outline: none;
-  height: 40px;
-  width: 260px;
-}
-.but {
-  background-color: rgb(3, 73, 3);
-} */
 * {
   scroll-behavior: smooth;
 }

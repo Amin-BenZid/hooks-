@@ -1,7 +1,7 @@
 .mCard {
   background-color: #4e66f3;
   height: 300px;
-  width: 94%;
+  width: 1400px;
   box-shadow: 4px 4px 4px 4px rgba(128, 128, 128, 0.205);
   padding: 20px;
   margin-left: 40px;
@@ -38,8 +38,9 @@ img {
   background-color: #313030;
 }
 .all {
+  position: relative;
   background-color: #4e66f3;
-  width: 1250px;
+  width: 100%;
 }
 .stars {
   display: flex;
